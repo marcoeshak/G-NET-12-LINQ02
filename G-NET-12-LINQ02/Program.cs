@@ -11,6 +11,13 @@
             */
             #endregion
 
+            #region Q02
+            /*
+            var result2 = products.Skip(5).Take(5);
+
+            */
+            #endregion
+
 
 
         }
