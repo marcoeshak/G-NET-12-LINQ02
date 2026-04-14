@@ -4,7 +4,15 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
+            #region Q01
+            /*
+            var result1 = products.OrderByDescending(p => p.UnitPrice).Take(3);
+            */
+            #endregion
+
+
+
         }
     }
 }
