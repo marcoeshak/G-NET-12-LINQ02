@@ -75,6 +75,12 @@
             */
             #endregion
 
+            #region Q10
+            /*
+            var result10 = products.Sum(p => p.UnitsInStock);
+            */
+            #endregion
+
 
         }
     }
