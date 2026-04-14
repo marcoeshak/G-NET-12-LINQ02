@@ -149,6 +149,13 @@
             */
             #endregion
 
+            #region Q21
+            /*
+            var result21 = products.Zip(customers,
+                (p, c) => $"{p.ProductName} sold to {c.CompanyName}"); 
+            */
+            #endregion
+
         }
     }
 }
