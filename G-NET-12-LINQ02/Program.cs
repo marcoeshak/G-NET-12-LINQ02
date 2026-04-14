@@ -130,6 +130,12 @@
             */
             #endregion
 
+            #region Q18
+            /*
+            var result18 = Enumerable.Range(1, 10).Select(x => 7 * x);
+            */
+            #endregion
+
         }
     }
 }
