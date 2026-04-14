@@ -118,6 +118,12 @@
             */
             #endregion
 
+            #region Q16
+            /*
+            var result16 = products.First(p => p.UnitPrice > 50);
+            */
+            #endregion
+
 
         }
     }
