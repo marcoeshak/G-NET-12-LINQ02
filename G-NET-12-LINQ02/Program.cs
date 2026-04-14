@@ -81,6 +81,13 @@
             */
             #endregion
 
+            #region Q11
+            /*
+            var cheapest = products.Min(p => p.UnitPrice);
+            var mostExpensive = products.Max(p => p.UnitPrice);
+            */
+            #endregion
+
 
         }
     }
