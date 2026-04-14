@@ -30,6 +30,13 @@
             */
             #endregion
 
+            #region Q05
+            /*
+            int[] ids = { 3, 9, 13, 18 };
+            var result5 = ids.Contains(9);
+            */
+            #endregion
+
 
 
         }
