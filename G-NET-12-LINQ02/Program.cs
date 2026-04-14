@@ -88,6 +88,12 @@
             */
             #endregion
 
+            #region Q12
+            /*
+            var result12 = products.Select(p => p.Category).Distinct();
+            */
+            #endregion
+
 
         }
     }
