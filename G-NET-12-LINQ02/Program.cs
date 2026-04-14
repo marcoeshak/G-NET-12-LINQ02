@@ -37,6 +37,13 @@
             */
             #endregion
 
+            #region Q06
+            /*
+            var result6 = products.GroupBy(p => p.Category)
+                      .Select(g => new { Category = g.Key, Count = g.Count() });
+            */
+            #endregion
+
 
 
         }
