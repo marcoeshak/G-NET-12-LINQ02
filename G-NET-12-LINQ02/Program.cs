@@ -142,6 +142,13 @@
             */
             #endregion
 
+            #region Q20
+            /*
+            var result20 = products.Select(p => p.ProductName).Take(3)
+                .Concat(customers.Select(c => c.CompanyName).Take(3));
+            */
+            #endregion
+
         }
     }
 }
