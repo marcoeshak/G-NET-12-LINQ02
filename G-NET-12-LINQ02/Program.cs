@@ -44,6 +44,14 @@
             */
             #endregion
 
+            #region Q07
+            /*
+            var result7 = products.GroupBy(p => p.Category)
+                      .Select(g => new { Category = g.Key, Names = g.Select(p => p.ProductName) });
+
+            */
+            #endregion
+
 
 
         }
