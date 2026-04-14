@@ -18,6 +18,12 @@
             */
             #endregion
 
+            #region Q03
+            /*
+            var result3 = products.TakeWhile(p => p.UnitPrice < 25);
+            */
+            #endregion
+
 
 
         }
