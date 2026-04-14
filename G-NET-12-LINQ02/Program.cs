@@ -24,6 +24,12 @@
             */
             #endregion
 
+            #region Q04
+            /*
+            var result4 = products.Where(p => p.Category == "Seafood").All(p => p.UnitsInStock > 0);
+            */
+            #endregion
+
 
 
         }
