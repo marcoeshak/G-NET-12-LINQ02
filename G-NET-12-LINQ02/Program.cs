@@ -111,6 +111,13 @@
             */
             #endregion
 
+            #region Q15
+            /*
+            var dict = products.ToDictionary(p => p.ProductID);
+            var product18 = dict[18];
+            */
+            #endregion
+
 
         }
     }
