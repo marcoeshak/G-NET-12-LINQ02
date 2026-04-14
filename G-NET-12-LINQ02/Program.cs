@@ -124,6 +124,11 @@
             */
             #endregion
 
+            #region Q17
+            /*
+            var result17 = products.FirstOrDefault(p => p.UnitPrice > 500);
+            */
+            #endregion
 
         }
     }
